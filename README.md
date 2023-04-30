@@ -5,11 +5,17 @@
 
  This project, _Drug Dispensing Tool_, is made to have access to the following profiles:
  
- - patients                                    - pharmacies
+ - patients
  
- - doctors                                     - contracts
+ - pharmacies
  
- - pharmaceutical companies                    - drugs
+ - doctors         
+ 
+ - contracts
+ 
+ - pharmaceutical companies      
+ 
+ - drugs
 
  - prescriptions
 
