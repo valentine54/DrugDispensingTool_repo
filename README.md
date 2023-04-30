@@ -1,7 +1,7 @@
 #### DrugDispensingTool_repo
 
 # **THE DRUG DISPENSING TOOL**
-<img src="https://i1.wp.com/ajp.com.au/wp-content/uploads/2017/11/47107530_xl.jpg?w=2024&ssl=1">
+<img src="https://www.neweurope.eu/wp-content/uploads/2019/12/P039491-184644-2136x1424.jpg">
 
  This project, _Drug Dispensing Tool_, is made to have access to the following profiles:
  
